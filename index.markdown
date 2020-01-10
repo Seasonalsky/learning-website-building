@@ -4,5 +4,11 @@
 
 layout: home
 ---
+
 it's ya boi the endless void
+
+![](voidwalker.jpg)
+
+![](void.jpg)
+
 #h1
