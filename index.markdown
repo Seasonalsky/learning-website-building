@@ -7,8 +7,8 @@ layout: home
 
 it's ya boi the endless void
 
-![image](voidwalker.jpg)
+![image](/assets/voidwalker.jpg)
 
-![image](void.jpg)
+![image](/assets/void.jpg)
 
 #h1
