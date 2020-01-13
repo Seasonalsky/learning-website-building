@@ -7,7 +7,7 @@ layout: home
 
 it's ya boi the endless void
 
-![image](voidwalker.jpg){ width=50% }
+![image](voidwalker.jpg){width=50%}
 
 pls play [minecraft](http://istdmc.opensutd.org/)  
 we have many fren
