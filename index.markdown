@@ -9,6 +9,8 @@ it's ya boi the endless void
 
 ![image](voidwalker.jpg)
 
-![image](void.jpg)
+pls play [minecraft](http://istdmc.opensutd.org/)  
+we have many fren
+
 
 # h1
